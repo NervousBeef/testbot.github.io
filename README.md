@@ -11,8 +11,8 @@
 </head>
 <body>
     <div id="header">
-        <h1>HTML5 Slot Machine</h1>
-        <p>By <a href="http://www.travisluong.com">Travis Luong</a></p>
+        <h1>Slot Machine</h1>
+        <p>By Sueta</p>
     </div>
 	<div id="stage">
     </div>
