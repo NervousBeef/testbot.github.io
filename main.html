@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html>
-<!-- 
-	SAMPLE PROJECT: Slot Machine
-	Completed as part of The JavaScript Full-Stack Bootcamp.
-	Instructor: Flavio Copes
-	Last Edit: 8/4/20  by E.Cope		Revised: 3/27/21
--->
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,7 +13,7 @@
 	<h1 class="page-title"><span id="title slot">S-l-o-t</span> <span id="ws-hack">-</span><span class="title machine">M-a-c-h-i-n-e</span></h1>
 
 	<div class="game-box">
-		<div id="try-your-luck">TRY  YOUR  LUCK!</div>
+		<div id="try-your-luck">Земля круглая, сучка</div>
 		<div class="slot-machine">
 			<div class="grid-container">
 				<div class="slot s1">
@@ -112,8 +106,6 @@
 				<span class="number" id="least-spins">.</span>
 			</p>
 		</div>
-
-		<p id="author-date">Last editted: 3/27/21 by E.Cope --- Version 1.1.1 🎰</p>
 	</footer>
 </body>
 
