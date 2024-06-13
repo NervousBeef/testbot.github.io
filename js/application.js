@@ -2,8 +2,8 @@
 // Design and Development by Travis Luong
 
 // declare globals
-var WIDTH = 800;
-var HEIGHT = 600;
+var WIDTH = 400;
+var HEIGHT = 400;
 // sequence, winnings
 var WINNING_SEQUENCES = [
   // white book
