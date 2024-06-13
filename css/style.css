@@ -15,7 +15,7 @@ a:hover {
 }
 
 #header {
-  width: 800px;
+  width: 100%;
   margin: auto;
 }
 
@@ -25,6 +25,6 @@ canvas {
 }
 
 #stage {
-	width: 800px;
+	width: 100%;
 	margin: auto;
 }
