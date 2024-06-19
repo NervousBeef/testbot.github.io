@@ -51,7 +51,7 @@
         }
 
         button {
-            display: block;
+            display: inline-block;
             width: 25%;
             font-size: 14px;
             margin: 15px 0;
