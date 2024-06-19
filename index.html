@@ -18,8 +18,7 @@
 
         Telegram.WebApp.onEvent('themeChanged', setThemeClass);
         setThemeClass();
-		let tg = window.Telegram.WebApp;
-		tg.expand();
+		window.Telegram.WebApp.expand();
     </script>
     <style>
         body {
