@@ -52,7 +52,7 @@
 
         button {
             display: block;
-            width: 100%;
+            width: 25%;
             font-size: 14px;
             margin: 15px 0;
             padding: 12px 20px;
