@@ -40,7 +40,7 @@
         }
 
         .btn {
-            font-size: 14px;
+            font-size: 12px;
             padding: 10px 17px;
         }
 
@@ -51,11 +51,10 @@
         }
 
         button {
-            display: inline;
-            width: 25%;
-            font-size: 14px;
-            margin: 15px 0;
-            padding: 12px 20px;
+            display: inline-block;
+            width: 24%;
+			height: 50px;
+            font-size: 10px;
             border: none;
             border-radius: 4px;
             background-color: var(--tg-theme-button-color, #50a8eb);
@@ -338,7 +337,7 @@
 <section id="top_sect" class="second">
     <button id="main_btn" onclick="DemoApp.sendMessage('');">Send «Hello, World!»</button>
     <button id="with_webview_btn" onclick="DemoApp.sendMessage('', true);">Send «Hello, World!» with inline webview button</button>
-    <button id="data_btn" onclick="DemoApp.sendTime(true);">Send current time to bot (x10)</button>
+    <button id="data_btn" onclick="DemoApp.sendTime(true);">Send current time to bot</button>
     <button onclick="DemoApp.expand();">Expand Webview</button>
     <button onclick="DemoApp.toggleMainButton(this);">Hide Main Button</button>
     <input type="text" placeholder="Input text in regular input..." id="regular_field"/>
